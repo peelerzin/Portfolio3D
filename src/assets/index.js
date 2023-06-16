@@ -29,6 +29,7 @@ import peel from "./company/peel.jpg";
 import proj from "./proj.gif";
 import square from "./square.gif";
 import wavy from "./wavy.gif";
+import circle from "./circle.gif";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   wavy,
   postgre,
   prisma,
+  circle,
 };

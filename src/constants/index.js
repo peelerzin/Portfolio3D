@@ -23,6 +23,7 @@ import {
   threejs,
   postgre,
   prisma,
+  circle,
 } from "../assets";
 
 export const navLinks = [
@@ -271,6 +272,31 @@ const projects = [
     ],
     image: square,
     source_code_link: "https://github.com/peelerzin/camp-8-midterm-group-1",
+  },
+  {
+    name: "Dall-e Replica",
+    description:
+      "MERN project where the user can get a random image or generate text from the Dall-e API and share it with the community.",
+    tags: [
+      {
+        name: "mongo-db",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "react",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: circle,
+    source_code_link: "https://github.com/peelerzin/dall-e",
   },
 ];
 
