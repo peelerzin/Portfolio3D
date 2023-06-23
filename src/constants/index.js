@@ -119,6 +119,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Visual Artist/Musician",
+    company_name: "Freelance",
+    icon: peel,
+    iconBg: "#E6DEDD",
+    date: "January 2013 - Present",
+    points: [
+      "Video edits for brands, musicians, labels while living in Marseille.",
+      "Live Performances and exhibitions in EU/USA/JAPAN.",
+      " Expert in Digital/analog videos and audio techniques (learned in Finland).",
+    ],
+  },
+  {
     title: "Intensive Bootcamp",
     company_name: "Dev Haus Leipzig",
     icon: dev,
@@ -144,7 +156,7 @@ const experiences = [
     ],
   },
   {
-    title: "Secretary Assitant",
+    title: "Secretary/Web Developer Assitant",
     company_name: "Hoff GMBH Leipzig/Ostrau",
     icon: hoff,
     iconBg: "#383E56",
@@ -153,18 +165,8 @@ const experiences = [
       "Organizing Plannings and classifying files.",
       " Writing/Answering Email, Phone calls.",
       "Keeping the agenda up to date.",
-    ],
-  },
-  {
-    title: "Visual Artist/Musician",
-    company_name: "Freelance",
-    icon: peel,
-    iconBg: "#E6DEDD",
-    date: "January 2013 - Present",
-    points: [
-      "Video edits for brands, musicians, labels while living in Marseille.",
-      "Live Performances and exhibitions in EU/USA.",
-      " Digital/analogue videos and audio techniques learned in Finland.",
+      "Redesigning and maintaining the website of the company.",
+      "Working close by with the front and back end team.",
     ],
   },
 ];
